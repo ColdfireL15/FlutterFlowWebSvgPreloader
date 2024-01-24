@@ -18,8 +18,8 @@ const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
 svgImage.src = 'https://raw.githubusercontent.com/ColdfireL15/FlutterFlowWebSvgPreloader/bd52abfd48c24961fb5c0384b4a5b101853642b1/tube-spinner.svg';
 svgImage.style.cssText = `
-    max-width: 100%;
-    max-height: 100%;
+    max-width: 200px;
+    max-height: 200px;
     display: none;
     position: absolute;
     top: 50%;
